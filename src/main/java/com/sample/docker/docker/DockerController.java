@@ -10,6 +10,6 @@ public class DockerController {
 
 	@GetMapping
 	public String hello() {
-		return "Hello Banibrata, Welcome to docker world";
+		return "Hello Banibrata, Welcome to docker world with Azure Web app";
 	}
 }
